@@ -1,2 +1,2 @@
-create a new branch is quick
-this is diff
+create a new branch is quick and  simple but a little dif
+
